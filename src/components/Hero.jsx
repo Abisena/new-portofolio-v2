@@ -79,12 +79,12 @@ function About() {
   const projects = [
     {
       name: "Sidata",
-      image: "../public/img/imageSid.png",
+      image: "../public/images/imageSid.png",
       link: "https://sidata.smkwikrama.sch.id/",
     },
     {
       name: "GoKasir",
-      image: "../public/img/imageGo.png",
+      image: "../public/images/imageGo.png",
       link: "https://github.com/Abisena/12108536-Muhamad-Abisena-Putrawan-2/",
     },
   ];
@@ -208,19 +208,19 @@ function Achievements() {
       title: "Html And CSS",
       issuer: "My EduSolf & Certiport",
       date: "Des 2023",
-      image: "../public/img/imageHtml.png",
+      image: "../public/images/imageHtml.png",
     },
     {
       title: "JavaScript Fundamentals",
       issuer: "Dicoding",
       date: "Okt 2023",
-      image: "../public/img/imageDi.png",
+      image: "../public/images/imageDi.png",
     },
     {
       title: "Internship Starcore Exorty",
       issuer: "Starcore",
       date: "Jul 2023",
-      image: "../public/img/image.png",
+      image: "../public/images/image.png",
     },
   ];
 
@@ -401,7 +401,7 @@ function Hero() {
           <div className="md:w-1/3 md:text-center md:mr-8">
             <div className="flex justify-center md:justify-start">
               <img
-                src="../public/img/abi.jpg"
+                src="../public/images/abi.jpg"
                 alt="Your Image Description"
                 className="w-48 h-30 rounded-lg shadow-lg"
               />
