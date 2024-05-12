@@ -401,7 +401,7 @@ function Hero() {
           <div className="md:w-1/3 md:text-center md:mr-8">
             <div className="flex justify-center md:justify-start">
               <img
-                src="../../public/images/abi.jpg"
+                src="../public/images/abi.jpg"
                 alt="Your Image Description"
                 className="w-48 h-30 rounded-lg shadow-lg"
               />
